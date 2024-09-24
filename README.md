@@ -5,7 +5,7 @@
 In the Amazon ML Challenge, we aim to extract and predict various product details such as weight, volume, voltage, wattage, and dimensions from images of products. The challenge focuses on leveraging machine learning techniques to accurately identify and extract these entity values, which can greatly enhance product information retrieval and improve user experience in online shopping.
 
 ### Objectives:
-- Develop a robust machine learning model to extract entity values from images.
+- Develop a robust process to extract entity values from images.
 - Map extracted values to predefined units specified in the challenge guidelines.
 - Ensure high accuracy in predictions while handling various formats and representations of unit data.
 
