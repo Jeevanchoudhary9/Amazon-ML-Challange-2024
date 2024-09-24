@@ -58,7 +58,7 @@ The Amazon ML Challenge presented an exciting opportunity to apply machine learn
 
 3. Run the main script:
    ```bash
-   python main.py --input <path_to_images>
+   python main.py
    ```
 
 4. The output will be saved in `output.csv` containing the extracted entity values and units.
