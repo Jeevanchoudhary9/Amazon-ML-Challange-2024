@@ -68,3 +68,6 @@ The Amazon ML Challenge presented an exciting opportunity to apply machine learn
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) for the OCR framework used.
 - The organizers of the Amazon ML Challenge for providing this exciting problem to solve.
 
+## Document Author
+
+Jeevan Choudhary
